@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>BioMotion Analyzer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f7fa;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+      text-align: center;
+    }
+    header {
+      background: #1e293b;
+      color: white;
+      padding: 60px 20px;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    .btn {
+      display: inline-block;
+      margin: 15px;
+      padding: 15px 30px;
+      background: #2563eb;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 18px;
+    }
+    footer {
+      background: #e5e7eb;
+      padding: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>BioMotion Analyzer</h1>
+  <p>برنامج ذكي لتحليل الأداء الحركي الرياضي بالذكاء الاصطناعي</p>
+  <a class="btn" href="PUT_LEMON_LINK_HERE">ابدأ التجربة المجانية</a>
+</header>
+
+<section>
+  <h2>لمن هذا البرنامج؟</h2>
+  <p>للمدربين، الباحثين، طلبة التربية الرياضية، ومراكز التأهيل</p>
+</section>
+
+<section>
+  <h2>ماذا يقدّم؟</h2>
+  <p>
+    تحليل الحركة من الفيديو – زوايا المفاصل – التماثل – تقارير PDF و Excel
+  </p>
+</section>
+
+<section>
+  <h2>Why BioMotion Analyzer?</h2>
+  <p>
+    AI-powered biomechanical analysis for performance optimization and injury prevention.
+  </p>
+</section>
+
+<footer>
+  © 2026 BioMotion Analyzer
+</footer>
+
+</body>
+</html>
